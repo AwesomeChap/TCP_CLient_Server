@@ -4,7 +4,7 @@ This repo contains TCP/IP client and TCP/IP server written in c using sockets
 # Installation
 just downaload the zip or clone using
 ```ruby
-https://github.com/AwesomeChap/TCP_Client_Server.git
+git clone https://github.com/AwesomeChap/TCP_Client_Server.git
 ```
 # Usage   
 Navigate to /TCPserver and open terminal and type
