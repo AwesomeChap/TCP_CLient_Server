@@ -7,21 +7,21 @@ just downaload the zip or clone using
 https://github.com/AwesomeChap/TCP_Client_Server.git
 ```
 # Usage   
-Navigate to /HTTPserver and open terminal and type
+Navigate to /TCPserver and open terminal and type
 ```ruby
 gcc TCPserver.c -o tcp_server
 ./tcp_server
 ```   
-Navigate to /HTTPclient and open another terminal and type
+Navigate to /TCPclient and open another terminal and type
 ```ruby
 gcc TCPclient.c -o tcp_client
 ./tcp_client
 ```   
 # Demo   
 
-<b>Before server started</b>
+<b>Before server started</b><br>
 ![alt text](Screenshots/initial.png "Initial")  
 
 
-<b>After server started</b>
+<b>After server started</b><br>
 ![alt text](Screenshots/final.png "Final") 
