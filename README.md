@@ -19,9 +19,9 @@ gcc TCPclient.c -o tcp_client
 ```   
 # Demo   
 
-<b>Before server started</b><br><br>
+<b styel="color:green">Before server started</b><br><br>
 ![alt text](Screenshots/initial.png "Initial")  
 
 
-<b>After server started</b><br><br>
+<b styel="color:green">After server started</b><br><br>
 ![alt text](Screenshots/final.png "Final") 
